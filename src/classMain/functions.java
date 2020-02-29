@@ -5,5 +5,7 @@ public class functions {
 		return a1+a2;
 		///bde 2grn eshe 3'be
 		//adddd
+		
+		
 	}
 }
